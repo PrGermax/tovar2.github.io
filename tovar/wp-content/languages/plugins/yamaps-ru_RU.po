@@ -1,0 +1,156 @@
+# Translation of Plugins - YaMaps for WordPress Plugin - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - YaMaps for WordPress Plugin - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-01 08:23:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - YaMaps for WordPress Plugin - Development (trunk)\n"
+
+#. Author of the plugin/theme
+msgid "Yuri Baranov"
+msgstr "Юрий Баранов"
+
+#: yamap.php:218
+msgid "Click on the map to choose or create the mark"
+msgstr "Кликните на карте для выбора или создания метки"
+
+#: yamap.php:206
+msgid "YaMaps plugin: Yandex.Map"
+msgstr "Плагин YaMaps: Яндекс.Карта"
+
+#: yamap.php:205
+msgid "Edit map"
+msgstr "Редактировать карту"
+
+#: yamap.php:234
+msgid "<div style=\"position: relative; display: block; width: 100%; white-space: normal !important;\"><h2 style=\"color: #444;font-size: 18px;font-weight: 600;line-height: 36px;\">Want other icon types?</h2>Additional types of icons can be found by the link in the <a href=\"https://tech.yandex.com/maps/doc/jsapi/2.1/ref/reference/option.presetStorage-docpage/ \" style=\"white-space: normal\">Yandex.Map documentation</a>.</div><div style=\"position: relative; display: block; width: 100%; white-space: normal !important;\"><h2 style=\"color: #444;font-size: 18px;font-weight: 600;line-height: 36px;\">Do you like YaMaps plugin?</h2>You can support its development by donate (<a href=\"https://money.yandex.ru/to/41001278340150\" style=\"white-space: normal\">Yandex</a>, <a href=\"https://www.paypal.me/yhunter\" style=\"white-space: normal\">PayPal</a>) or just leave a positive feedback in the <a href=\"https://wordpress.org/support/plugin/yamaps/reviews/\" style=\"white-space: normal\">plugin repository</a>. It's very motivating!</div><div style=\"position: relative; display: block; width: 100%; white-space: normal !important;\"><h2 style=\"color: #444;font-size: 18px;font-weight: 600;line-height: 36px;\">Any questions?</h2>Ask in the comments <a href=\"https://www.yhunter.ru/portfolio/dev/yamaps/\" style=\"white-space: normal\">on the plug-in's page</a>, <a href=\"https://wordpress.org/support/plugin/yamaps\" style=\"white-space: normal\">WP support forum</a> or <a href=\"https://github.com/yhunter-ru/yamaps/issues\" style=\"white-space: normal\">on GitHub</a>.</div>"
+msgstr "<div style=\"position: relative; display: block; width: 100%; white-space: normal !important;\"><h2 style=\"color: #444;font-size: 18px;font-weight: 600;line-height: 36px;\">Хотите другие иконки?</h2>Дополнительные виды иконок можно найти по ссылке в <a href=\"https://tech.yandex.ru/maps/doc/jsapi/2.1/ref/reference/option.presetStorage-docpage/ \" style=\"white-space: normal\">документации Яндекс.Карт</a>.</div><div style=\"position: relative; display: block; width: 100%; white-space: normal !important;\"><h2 style=\"color: #444;font-size: 18px;font-weight: 600;line-height: 36px;\">Нравится плагин YaMaps?</h2>Вы можете поддержать его разработку донатом (<a href=\"https://money.yandex.ru/to/41001278340150\" style=\"white-space: normal\">Яндекс</a>, <a href=\"https://www.paypal.me/yhunter\" style=\"white-space: normal\">PayPal</a>) или просто оставив позитивный отзыв в <a href=\"https://wordpress.org/support/plugin/yamaps/reviews/\" style=\"white-space: normal\">репозитории плагинов</a>. Это очень мотивирует!</div><div style=\"position: relative; display: block; width: 100%; white-space: normal !important;\"><h2 style=\"color: #444;font-size: 18px;font-weight: 600;line-height: 36px;\">Есть вопросы?</h2>Задайте в комментарии <a href=\"https://www.yhunter.ru/portfolio/dev/yamaps/\" style=\"white-space: normal\">на странице плагина</a>, <a href=\"https://wordpress.org/support/plugin/yamaps\" style=\"white-space: normal\">форуме поддержки WP</a> или <a href=\"https://github.com/yhunter-ru/yamaps/issues\" style=\"white-space: normal\">GitHub</a>.</div>"
+
+#: yamap.php:233
+msgid "Extra"
+msgstr "Дополнительно"
+
+#: yamap.php:232
+msgid "Do not create a block in the content. Use the existing block of the WP theme with the specified ID"
+msgstr "Не создавать блок в содержимом. Использовать существующий блок в теме WP с указанным ID."
+
+#: yamap.php:231
+msgid "Put in ID"
+msgstr "Поместить в ID"
+
+#: yamap.php:212
+msgid "Placemark hyperlink url or post ID"
+msgstr "Адрес URL или ID записи для перехода по клику "
+
+#: yamap.php:220
+msgid "Delete"
+msgstr "Удалить"
+
+#. Author URI of the plugin/theme
+msgid "www.yhunter.ru"
+msgstr "www.yhunter.ru"
+
+#. Description of the plugin/theme
+msgid "Yandex Map integration"
+msgstr "Интеграция Яндекс.Карт"
+
+#. Plugin URI of the plugin/theme
+msgid "www.yhunter.ru/portfolio/dev/yamaps/"
+msgstr "www.yhunter.ru/portfolio/dev/yamaps/"
+
+#. Plugin Name of the plugin/theme
+msgid "YaMaps for Wordpress"
+msgstr "YaMaps - плагин Яндекс.Карт для WordPress"
+
+#: yamap.php:230
+msgid "Marker color"
+msgstr "Цвет метки"
+
+#: yamap.php:229
+msgid "Geolocation"
+msgstr "Геолокация"
+
+#: yamap.php:228
+msgid "Full screen"
+msgstr "Полный экран"
+
+#: yamap.php:227
+msgid "Traffic"
+msgstr "Пробки"
+
+#: yamap.php:226
+msgid "Ruler"
+msgstr "Масштаб"
+
+#: yamap.php:225
+msgid "Route"
+msgstr "Маршрут"
+
+#: yamap.php:224
+msgid "Search"
+msgstr "Поиск"
+
+#: yamap.php:223
+msgid "Wheel zoom"
+msgstr "Масштаб колесом"
+
+#: yamap.php:222
+msgid "Zoom"
+msgstr "Кнопки масштаба"
+
+#: yamap.php:221
+msgid "Map type"
+msgstr "Тип карты"
+
+#: yamap.php:219
+msgid "Map controls"
+msgstr "Элементы управления"
+
+#: yamap.php:217
+msgid "Сoordinates"
+msgstr "Координаты метки"
+
+#: yamap.php:216
+msgid "Use the links below"
+msgstr "Используйте подсказки снизу"
+
+#: yamap.php:215
+msgid "Text for hint or icon content"
+msgstr "Для всплывающей подсказки или содержимого"
+
+#: yamap.php:214
+msgid "Placemark name"
+msgstr "Название метки"
+
+#: yamap.php:213
+msgid "Map height"
+msgstr "Высота карты"
+
+#: yamap.php:211
+msgid "Link"
+msgstr "Ссылка"
+
+#: yamap.php:210
+msgid "Blue only"
+msgstr "Только синяя"
+
+#: yamap.php:209
+msgid "Icon"
+msgstr "Иконка"
+
+#: yamap.php:207
+msgid "Placemark"
+msgstr "Метка"
+
+#: yamap.php:204
+msgid "Add map"
+msgstr "Добавить карту"
+
+#: yamap.php:203 yamap.php:208
+msgid "Map"
+msgstr "Карта"
